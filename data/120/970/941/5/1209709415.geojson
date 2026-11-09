@@ -41,7 +41,7 @@
         "wk:page":"Bentleys"
     },
     "wof:country":"BB",
-    "wof:geomhash":"90ada04f571da4a555944c792433a6ea",
+    "wof:geomhash":"f24eaaddaf8da510a2ae2992c1f6739e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.50678000000001,
     13.12013
 ],
-  "geometry": {"coordinates":[-59.50678000000001,13.12013],"type":"Point"}
+  "geometry": {"coordinates":[-59.50678,13.12013],"type":"Point"}
 }

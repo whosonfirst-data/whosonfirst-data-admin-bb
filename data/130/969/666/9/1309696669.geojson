@@ -47,7 +47,7 @@
         "wk:page":"Six_Men%27s_Bay,_Barbados"
     },
     "wof:country":"BB",
-    "wof:geomhash":"51bfdf5881a9bbcc87029605f914494f",
+    "wof:geomhash":"79a2575752c44b1547bce4431ac24e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -59.64313000000001,
     13.26788
 ],
-  "geometry": {"coordinates":[-59.64313000000001,13.26788],"type":"Point"}
+  "geometry": {"coordinates":[-59.64313,13.26788],"type":"Point"}
 }

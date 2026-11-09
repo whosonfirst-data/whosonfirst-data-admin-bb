@@ -41,7 +41,7 @@
         "wk:page":"Checker_Hall"
     },
     "wof:country":"BB",
-    "wof:geomhash":"6f93e33f0d9b1501a611c291a9bc7814",
+    "wof:geomhash":"8e4ed62959576477a98f46717150bb07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.64223000000001,
     13.28445
 ],
-  "geometry": {"coordinates":[-59.64223000000001,13.28445],"type":"Point"}
+  "geometry": {"coordinates":[-59.64223,13.28445],"type":"Point"}
 }

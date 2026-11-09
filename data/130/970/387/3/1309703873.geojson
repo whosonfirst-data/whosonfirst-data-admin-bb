@@ -41,7 +41,7 @@
         "wk:page":"Cave_Hill,_Saint_Lucy,_Barbados"
     },
     "wof:country":"BB",
-    "wof:geomhash":"328d292b63ed000f9a692f5fbc35af26",
+    "wof:geomhash":"a73f39a3a0878227a61a8340c9e5b0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.58443000000001,
     13.29968
 ],
-  "geometry": {"coordinates":[-59.58443000000001,13.29968],"type":"Point"}
+  "geometry": {"coordinates":[-59.58443,13.29968],"type":"Point"}
 }

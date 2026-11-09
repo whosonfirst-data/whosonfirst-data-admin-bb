@@ -41,7 +41,7 @@
         "wk:page":"Boscobelle"
     },
     "wof:country":"BB",
-    "wof:geomhash":"445d80f34ce9ffcc9718e27a7a206948",
+    "wof:geomhash":"88364336f2431529037a3f590a03ffc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.57918000000001,
     13.28775
 ],
-  "geometry": {"coordinates":[-59.57918000000001,13.28775],"type":"Point"}
+  "geometry": {"coordinates":[-59.57918,13.28775],"type":"Point"}
 }

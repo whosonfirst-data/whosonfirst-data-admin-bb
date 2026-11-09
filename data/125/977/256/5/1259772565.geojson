@@ -41,7 +41,7 @@
         "wk:page":"Workhall%2C_Barbados"
     },
     "wof:country":"BB",
-    "wof:geomhash":"60966f7e2e50a2f4d6496e77ab391caa",
+    "wof:geomhash":"fc9c0c54b9e89f6bef8c515edd903598",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.45603000000001,
     13.12571
 ],
-  "geometry": {"coordinates":[-59.45603000000001,13.12571],"type":"Point"}
+  "geometry": {"coordinates":[-59.45603,13.12571],"type":"Point"}
 }

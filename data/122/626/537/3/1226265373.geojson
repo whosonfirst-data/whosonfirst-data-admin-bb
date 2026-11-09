@@ -51,7 +51,7 @@
         "wk:page":"Codrington_College"
     },
     "wof:country":"BB",
-    "wof:geomhash":"ab8b54d5afc27f6836cb695f54844b49",
+    "wof:geomhash":"5538336490bd9e3e9deedf17a40320ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -59.47734000000001,
     13.17161
 ],
-  "geometry": {"coordinates":[-59.47734000000001,13.17161],"type":"Point"}
+  "geometry": {"coordinates":[-59.47734,13.17161],"type":"Point"}
 }

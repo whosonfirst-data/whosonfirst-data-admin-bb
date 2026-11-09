@@ -43,7 +43,7 @@
         "gn:id":3373591
     },
     "wof:country":"BB",
-    "wof:geomhash":"637f90cd45e76f1a9016799aaa7bfda4",
+    "wof:geomhash":"4c3a43aa4ae303710741decc88565436",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -59.60508000000001,
     13.29915
 ],
-  "geometry": {"coordinates":[-59.60508000000001,13.29915],"type":"Point"}
+  "geometry": {"coordinates":[-59.60508,13.29915],"type":"Point"}
 }

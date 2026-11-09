@@ -40,7 +40,7 @@
         "wk:page":"Saint_Lawrence_Gap"
     },
     "wof:country":"BB",
-    "wof:geomhash":"e48c9a627b732d8f7352af588ac2c6b3",
+    "wof:geomhash":"7b4aa30bb1b157b8c7757fde16ab2164",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,5 +65,5 @@
     -59.57921999999999,
     13.07066
 ],
-  "geometry": {"coordinates":[-59.57921999999999,13.07066],"type":"Point"}
+  "geometry": {"coordinates":[-59.57922,13.07066],"type":"Point"}
 }

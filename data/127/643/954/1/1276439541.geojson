@@ -41,7 +41,7 @@
         "wk:page":"Branchbury"
     },
     "wof:country":"BB",
-    "wof:geomhash":"e53ecc4aacd256d6ce770083123d67f2",
+    "wof:geomhash":"560b99f5292356062feca14c8ed42d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.54933000000001,
     13.18784
 ],
-  "geometry": {"coordinates":[-59.54933000000001,13.18784],"type":"Point"}
+  "geometry": {"coordinates":[-59.54933,13.18784],"type":"Point"}
 }

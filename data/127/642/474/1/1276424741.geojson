@@ -41,7 +41,7 @@
         "wk:page":"Bayfield%2C_Barbados"
     },
     "wof:country":"BB",
-    "wof:geomhash":"76a71e07c6a6f71b1cdf4bf79a217319",
+    "wof:geomhash":"299ab8bbb23af836a5e629d92e717f98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -59.45243000000001,
     13.16478
 ],
-  "geometry": {"coordinates":[-59.45243000000001,13.16478],"type":"Point"}
+  "geometry": {"coordinates":[-59.45243,13.16478],"type":"Point"}
 }

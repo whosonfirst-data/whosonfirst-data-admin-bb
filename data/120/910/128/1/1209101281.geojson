@@ -39,7 +39,7 @@
         "wk:page":"Brereton%2C_Barbados"
     },
     "wof:country":"BB",
-    "wof:geomhash":"f0b7e2f8f502ef569b4e9018932da872",
+    "wof:geomhash":"1c3973e33855fa3572f2236fe23fff99",
     "wof:hierarchy":[
         {
             "country_id":85632491,
@@ -62,5 +62,5 @@
     -59.50111999999999,
     13.12233
 ],
-  "geometry": {"coordinates":[-59.50111999999999,13.12233],"type":"Point"}
+  "geometry": {"coordinates":[-59.50112,13.12233],"type":"Point"}
 }
