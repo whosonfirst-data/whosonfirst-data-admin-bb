@@ -1,0 +1,72 @@
+{
+  "id": 9895011363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58605,13.24399,-59.58605,13.24399",
+    "geom:latitude":13.24399,
+    "geom:longitude":-59.58605,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11893979: name \"Bawdens\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11893979"
+        },
+        {
+            "citation":"GeoNames populated place 11893979: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11893979"
+        },
+        {
+            "citation":"GeoNames populated place 11893979: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11893979"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669439 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669439,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11893979
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"a47e937408e3f815c102d5717a2ac074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011363,
+            "region_id":85669439
+        }
+    ],
+    "wof:id":9895011363,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Bawdens",
+    "wof:parent_id":85669439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58605,
+    13.24399,
+    -59.58605,
+    13.24399
+],
+  "geometry": {"coordinates":[-59.58605,13.24399],"type":"Point"}
+}

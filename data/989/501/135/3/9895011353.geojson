@@ -1,0 +1,72 @@
+{
+  "id": 9895011353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56619,13.13959,-59.56619,13.13959",
+    "geom:latitude":13.13959,
+    "geom:longitude":-59.56619,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11893930: name \"Thorpes Cottage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11893930"
+        },
+        {
+            "citation":"GeoNames populated place 11893930: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11893930"
+        },
+        {
+            "citation":"GeoNames populated place 11893930: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11893930"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669445 (Saint George), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669445,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11893930
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"640186b512c3772e14808889b7465f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011353,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":9895011353,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Thorpes Cottage",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56619,
+    13.13959,
+    -59.56619,
+    13.13959
+],
+  "geometry": {"coordinates":[-59.56619,13.13959],"type":"Point"}
+}

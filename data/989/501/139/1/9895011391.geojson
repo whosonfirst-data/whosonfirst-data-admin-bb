@@ -1,0 +1,72 @@
+{
+  "id": 9895011391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.5595,13.21694,-59.5595,13.21694",
+    "geom:latitude":13.21694,
+    "geom:longitude":-59.5595,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894572: name \"Cane Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894572"
+        },
+        {
+            "citation":"GeoNames populated place 11894572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894572"
+        },
+        {
+            "citation":"GeoNames populated place 11894572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894572"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669457 (Saint Joseph), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669457,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894572
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"578d87aa875eb8e64ca7facecd4a579c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011391,
+            "region_id":85669457
+        }
+    ],
+    "wof:id":9895011391,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Cane Garden",
+    "wof:parent_id":85669457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.5595,
+    13.21694,
+    -59.5595,
+    13.21694
+],
+  "geometry": {"coordinates":[-59.5595,13.21694],"type":"Point"}
+}
