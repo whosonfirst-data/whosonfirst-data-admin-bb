@@ -1,0 +1,72 @@
+{
+  "id": 9895011395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58394,13.20394,-59.58394,13.20394",
+    "geom:latitude":13.20394,
+    "geom:longitude":-59.58394,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894579: name \"Blunts\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894579"
+        },
+        {
+            "citation":"GeoNames populated place 11894579: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894579"
+        },
+        {
+            "citation":"GeoNames populated place 11894579: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894579"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669477 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669477,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894579
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"9504a0d65083fa04c5a5ba35ed42ede1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011395,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":9895011395,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Blunts",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58394,
+    13.20394,
+    -59.58394,
+    13.20394
+],
+  "geometry": {"coordinates":[-59.58394,13.20394],"type":"Point"}
+}

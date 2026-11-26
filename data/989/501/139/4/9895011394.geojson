@@ -1,0 +1,72 @@
+{
+  "id": 9895011394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.57538,13.20479,-59.57538,13.20479",
+    "geom:latitude":13.20479,
+    "geom:longitude":-59.57538,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894577: name \"Spring Vale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894577"
+        },
+        {
+            "citation":"GeoNames populated place 11894577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894577"
+        },
+        {
+            "citation":"GeoNames populated place 11894577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894577"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669477 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669477,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894577
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"0346b6ee9d9234f870d75d5784b6c7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011394,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":9895011394,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Spring Vale",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.57538,
+    13.20479,
+    -59.57538,
+    13.20479
+],
+  "geometry": {"coordinates":[-59.57538,13.20479],"type":"Point"}
+}

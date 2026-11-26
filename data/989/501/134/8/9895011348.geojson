@@ -1,0 +1,72 @@
+{
+  "id": 9895011348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61793,13.29725,-59.61793,13.29725",
+    "geom:latitude":13.29725,
+    "geom:longitude":-59.61793,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3373818: name \"Half Acre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3373818"
+        },
+        {
+            "citation":"GeoNames populated place 3373818: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3373818"
+        },
+        {
+            "citation":"GeoNames populated place 3373818: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3373818"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669459 (Saint Lucy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669459,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373818
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"d87d69dba1c566a3b5e97a3b51ccbf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011348,
+            "region_id":85669459
+        }
+    ],
+    "wof:id":9895011348,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Half Acre",
+    "wof:parent_id":85669459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61793,
+    13.29725,
+    -59.61793,
+    13.29725
+],
+  "geometry": {"coordinates":[-59.61793,13.29725],"type":"Point"}
+}

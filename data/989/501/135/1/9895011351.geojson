@@ -1,0 +1,72 @@
+{
+  "id": 9895011351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.54769,13.09814,-59.54769,13.09814",
+    "geom:latitude":13.09814,
+    "geom:longitude":-59.54769,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11893917: name \"Staple Grove\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11893917"
+        },
+        {
+            "citation":"GeoNames populated place 11893917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11893917"
+        },
+        {
+            "citation":"GeoNames populated place 11893917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11893917"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669435 (Christ Church), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669435,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11893917
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"25683121e5f7342b4ebd4e66163f27ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011351,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":9895011351,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Staple Grove",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.54769,
+    13.09814,
+    -59.54769,
+    13.09814
+],
+  "geometry": {"coordinates":[-59.54769,13.09814],"type":"Point"}
+}

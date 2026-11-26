@@ -1,0 +1,72 @@
+{
+  "id": 9895011386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.45122,13.14232,-59.45122,13.14232",
+    "geom:latitude":13.14232,
+    "geom:longitude":-59.45122,
+    "iso:country":"BB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11894039: name \"Mapps\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11894039"
+        },
+        {
+            "citation":"GeoNames populated place 11894039: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11894039"
+        },
+        {
+            "citation":"GeoNames populated place 11894039: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11894039"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669473 (Saint Philip), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491,
+        85669473,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11894039
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"3d84c8d1853c46e0759ca5ff74eb2244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":9895011386,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":9895011386,
+    "wof:lastmodified":1795735110,
+    "wof:name":"Mapps",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.45122,
+    13.14232,
+    -59.45122,
+    13.14232
+],
+  "geometry": {"coordinates":[-59.45122,13.14232],"type":"Point"}
+}
